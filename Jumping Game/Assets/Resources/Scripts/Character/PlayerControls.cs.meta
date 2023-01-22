@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7ab83d49c56ab7441bed22b23f1ff302
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thickPlatformCollider: {fileID: 3162837979969396232, guid: 4d9f1f40866cef0408e1ec92b6f9b5ff, type: 3}
+  - standardPlatformCollider: {fileID: -1751944605714245255, guid: a353a36fae6cb824bb9988531c80f379, type: 3}
+  - spikyThickCollider: {fileID: -2333907586173772180, guid: 9380ee3ca33534b43abbcf58baa8de2d, type: 3}
+  - spikyStandardCollider: {fileID: -8626459396846424296, guid: 22f66b9043f06504da29e41df824fce2, type: 3}
+  - crumblyThickCollider: {fileID: 3568039280224981661, guid: 79c0dbc7ec16ead43978d0c7bd0072db, type: 3}
+  - crumblyStandardCollider: {fileID: -6078919551754871025, guid: e6fe6ceac26c58f49bdcc5a223bf6df7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
